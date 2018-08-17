@@ -3,7 +3,7 @@
 # @File  : unit_test.py
 # @Author: Persimmon
 # @Date  : 2018/8/15
-# @Desc  :
+# @Desc  :对单元测试的例题完成修改后
 
 
 import unittest
